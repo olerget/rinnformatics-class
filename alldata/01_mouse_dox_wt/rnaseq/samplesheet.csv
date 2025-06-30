@@ -1,5 +1,5 @@
 sample;replicate;fastq_1;fast_q2;strandedness;;;;;
-WT_0_3;;C:\Users\merge\Genomics\alldata\01_mouse_dox_wt\data;;unstranded;;;;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2707_R1.fastq.gz;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2707_R2.fastq.gz
+WT_0_3;;C:\Users\merge\rinnformatics-class\alldata\01_mouse_dox_wt\data;;unstranded;;;;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2707_R1.fastq.gz;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2707_R2.fastq.gz
 WT_0_1;;;;unstranded;;;;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2708_R1.fastq.gz;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2708_R2.fastq.gz
 WT_0_2;;;;unstranded;;;;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2710_R1.fastq.gz;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2710_R2.fastq.gz
 WT_12_3;;;;unstranded;;;;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2758_R1.fastq.gz;/scratch/Shares/rinn/ML/mouse_wt_long_timecourse/JR2758_R2.fastq.gz

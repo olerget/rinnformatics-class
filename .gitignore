@@ -1,0 +1,21 @@
+# Ignore data and downloads folders
+Data/
+Downloads/
+
+# Ignore typical system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files (if any)
+__pycache__/
+*.py[cod]
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore git config backups
+*.orig
+
+# Ignore other large files you might not want in repo
+*.fastq.gz
